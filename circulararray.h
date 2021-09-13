@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//comment
 template <class T>
 class CircularArray
 {
